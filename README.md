@@ -26,3 +26,7 @@ I encrypted the payload I created in [DcRat](https://github.com/qwqdanchun/DcRat
 If anyone knows how to do memory injection in Windows 11, please let me know. I will gladly reward you with free file encryption :D
 I tried patching Windows 11, MEM_IMG, and MEM_PRIV... but it still doesn't work for me.
 
+Comparison with an unencrypted file in DnSpy.
+
+
+<img width="514" height="675" alt="image" src="https://github.com/user-attachments/assets/315cf067-b9b1-4a29-ba27-b44172ff7eae" />
